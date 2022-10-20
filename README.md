@@ -19,7 +19,9 @@ As a Business Information Technology student at RRC, my focus is on software dev
 
 ## My Projects
 
-[MVC for PHP, Bootstrap, and jQuery](https://github.com/chriskomus/mvc-for-php-and-jquery) - A PHP, Bootstrap, and jQuery based MVC (model, controller, view) framework using a bare minimum amount of packages. Lightweight and fast. Handles authentication, database connectivity, displaying datagrids or tiles.
+[Discographer](https://github.com/chriskomus/discographer) - Import Data from the Discogs API into a Database using Ruby on Rails. Import an artist or record label's entire discography from Discogs' API with one click. Or import individual albums from Discogs.
+
+[MVC for PHP, Bootstrap, and jQuery](https://github.com/chriskomus/mvc-for-php-and-jquery) - A PHP, Bootstrap, and jQuery based MVC (model, controller, view) framework using almost no external packages. Lightweight and fast. Handles authentication, role based access to pages, database connectivity, custom datagrid (with search, filter, sort).
 
 [Batch Processing PDFs](https://github.com/chriskomus/pdf-batch-crop) - Manipulate, merge and batch edit PDF files for streamlining day to day business processes. Used for cropping and merging shipping labels, directing to appropriate printer, and archiving files.
 
