@@ -18,6 +18,8 @@ As a Business Information Technology student at RRC, my focus is on software dev
 
 ## My Projects
 
+[Server Driven Datagrid Table for Bootstrap v5 and Javascript](https://github.com/chriskomus/datagrid-for-bootstrap) - Populate datagrid table with JSON content, live search on any column, sorting, filtering by category, pagination, show/hide archived items, format columns as currency, uses cookies to store sorting preferences. Works with Bootstrap v5.
+
 [Discographer](https://github.com/chriskomus/discographer) - Import Data from the Discogs API into a Database using Ruby on Rails. Import an artist or record label's entire discography from Discogs' API with one click. Or import individual albums from Discogs.
 
 [MVC for PHP, Bootstrap, and jQuery](https://github.com/chriskomus/mvc-for-php-and-jquery) - A PHP, Bootstrap, and jQuery based MVC (model, controller, view) framework using almost no external packages. Lightweight and fast. Handles authentication, role based access to pages, database connectivity, custom datagrid (with search, filter, sort).
