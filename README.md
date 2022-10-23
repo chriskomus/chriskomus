@@ -1,7 +1,5 @@
 # Chris Komus - @chriskomus
 
-Currently at Red River College Polytechnic - Business Information Technology - Graduating December 2022
-
 [![linkedin](https://img.shields.io/badge/-@chriskomus-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/chriskomus/)
 
 ## My Summary
