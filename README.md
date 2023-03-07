@@ -2,19 +2,7 @@
 
 [![linkedin](https://img.shields.io/badge/-@chriskomus-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/chriskomus/)
 
-## My Summary
-
-In my final term of Business Information Technology at RRC, graduating in December 2022, and ready to start my career as a back-end developer, API developer, App developer, or full-stack software developer.
-
-As a Business Information Technology student at RRC, my focus is on software development using C# and .NET framework, Kotlin, PHP, PL/SQL, JavaScript, Ruby on Rails, React and Python. As a software developer intern I gained professional experience in Angular, node.js, and Typescript, as well as API development. Before returning to RRC, I came from a "jack of all trades" marketing background, with years of experience in a b2b wholesale environment developing e-commerce solutions, designing for print and web, maintaining large datasets, and reporting on market research using data-driven metrics.
-
-## My Experience
-
-**Software Developer Intern** at University of Manitoba IST Department working with Node.js, Angular, and Jira.
-
-**Marketing** at WR Display & Packaging working on front-end development of open source e-commerce solutions such as X-Cart, working with HTML5, CSS3, jQuery, and PHP.
-
-## My Projects
+## Recent Projects
 
 [Server Driven Datagrid Table for Bootstrap v5 and Javascript](https://github.com/chriskomus/datagrid-for-bootstrap) - Populate datagrid table with JSON content, live search on any column, sorting, filtering by category, pagination, show/hide archived items, format columns as currency, uses cookies to store sorting preferences. Works with Bootstrap v5.
 
