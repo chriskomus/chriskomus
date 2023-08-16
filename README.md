@@ -4,6 +4,10 @@
 
 ## Recent Projects
 
+[Solar Charge Controller and Battery Bluetooth Monitor with Dashboard](https://github.com/chriskomus/solar-battery-bt-monitor) - Read data from Renogy BT-1 devices and Junctek KG-F series Battery Monitors. A python script reads the data, logged with Prometheus, and displayed in fancy dashboards with Grafana
+
+[BLE Sniffer with Raspberry Pi - Reverse Engineering Walkthrough](https://github.com/chriskomus/ble-sniffer-walkthrough) - In an attempt to pull data from a Junctek KH140F Battery Monitor I decided to document my progress in case this is useful to anyone else.
+
 [Server Driven Datagrid Table for Bootstrap v5 and Javascript](https://github.com/chriskomus/datagrid-for-bootstrap) - Populate datagrid table with JSON content, live search on any column, sorting, filtering by category, pagination, show/hide archived items, format columns as currency, uses cookies to store sorting preferences. Works with Bootstrap v5.
 
 [Discographer](https://github.com/chriskomus/discographer) - Import Data from the Discogs API into a Database using Ruby on Rails. Import an artist or record label's entire discography from Discogs' API with one click. Or import individual albums from Discogs.
