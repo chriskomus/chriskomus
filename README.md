@@ -4,6 +4,8 @@
 
 ## Recent Projects
 
+[Restic Backup Helper](https://github.com/chriskomus/restic-backup-helper) - A script to simplify backups, restores, snapshot deletes, and data validation using Restic.
+
 [Solar Charge Controller and Battery Bluetooth Monitor with Dashboard](https://github.com/chriskomus/solar-battery-bt-monitor) - Read data from Renogy BT-1 devices and Junctek KG-F series Battery Monitors. A python script reads the data, logged with Prometheus, and displayed in fancy dashboards with Grafana
 
 [BLE Sniffer with Raspberry Pi - Reverse Engineering Walkthrough](https://github.com/chriskomus/ble-sniffer-walkthrough) - In an attempt to pull data from a Junctek KH140F Battery Monitor I decided to document my progress in case this is useful to anyone else.
